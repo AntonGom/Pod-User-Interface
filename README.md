@@ -13,7 +13,5 @@ Only compatible with PS4, download to a USB drive then plug it into your PS4 to 
 -Remember that the wiring of the level can be disabled by turning off the level layers!
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pq9n8BGJe8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 [<img src="https://i.redd.it/9ocrticstar21.jpg" width="70%">](https://www.youtube.com/embed/0pq9n8BGJe8 "Now in Android: 55")
