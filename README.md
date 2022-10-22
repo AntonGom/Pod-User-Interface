@@ -14,4 +14,4 @@ Only compatible with PS4, download to a USB drive then plug it into your PS4 to 
 
 
 
-[<img src="https://i.redd.it/9ocrticstar21.jpg" width="70%">](https://www.youtube.com/embed/0pq9n8BGJe8 "Now in Android: 55")
+[<img src="https://i.redd.it/9ocrticstar21.jpg" width="75%">](https://www.youtube.com/embed/0pq9n8BGJe8 "User Interface with digital logic gates")
